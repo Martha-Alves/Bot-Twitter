@@ -1,0 +1,22 @@
+{
+  "name": "npm_demo",
+  "version": "1.0.0",
+  "description": "I am demonstrating npm",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "warrior",
+    "nun"
+  ],
+  "author": "Carol Alves",
+  "license": "ISC",
+  "dependencies": {
+    "cron": "^2.1.0",
+    "dotenv": "^16.0.3",
+    "twit": "^2.2.11",
+    "twitter-api-v2": "^1.12.10"
+  }
+}
